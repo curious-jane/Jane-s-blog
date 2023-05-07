@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'janeblog/bf27c9b9f92e42dfab8860baa7157f41',
+  rootNotionPageId: 'bf27c9b9f92e42dfab8860baa7157f41',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: janeblog,
 
   // basic site info (required)
   name: "Jane's Blog",
