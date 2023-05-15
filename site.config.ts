@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Jane's Blog",
-  domain: 'https://janeliu.vercel.app/',
+  domain: 'https://janeliu.site',
   author: 'Jane Liu',
 
   // open graph metadata (optional)
